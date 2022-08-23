@@ -202,6 +202,56 @@ section {
 .btn-link {
   color: #ff00cc; }
 
+
+
+
+
+
+
+  .btnn {
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 30px;
+    padding: 9px 25px;
+    text-transform: capitalize;
+    transition: all 0.3s ease 0s; }
+
+  .btnn-primary {
+    display: inline-block;
+    background-color: #ff00cc;
+    border-color: #ff00cc;
+    color: #fff; }
+    .btnn-primary:hover {
+      background-color: #333399;
+      border-color: #333399;
+      color: #fff; }
+
+  .btnn-outline-primary {
+    color: #fff;
+    background-color: #ff00cc;
+    background-image: none;
+    border-color: #ff00cc; }
+    .btnn-outline-primary:hover {
+      background-color: #333399;
+      border-color: #333399;
+      color: #fff; }
+
+  .btnn-shadow {
+    box-shadow: -5px 8px 20px 0px rgba(229, 16, 2, 0.15); }
+
+  .btnn-icon {
+    color: #000; }
+
+  .btnn-link {
+    color: #ff00cc; }
+
+
+
+
+
+
+
+
 /*=====  End of BUTTON  ======*/
 /*==========================================
 =            FORM RECTANGLE ETC            =
