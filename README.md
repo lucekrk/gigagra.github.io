@@ -1,6 +1,10 @@
 <h1 align="center">GIGAGRA NAJLEPSZA</h1>
 <h3 align="center">Gigagra to gra przeglądarkowa zrobiona dla beki</h3>
 
+- kontakt discord **lucekrk#8849**
+
+- Dzięki za darmowy szablon strony: **www.free-css.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
