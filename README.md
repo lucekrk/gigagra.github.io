@@ -7,18 +7,16 @@
 
 <h3 align="center">- Ta gra jest w 100% bezpieczna **bez grabberów**</h3>
 
-<h3 align="center">- kontakt discord **lucekrk#8849**</h3>
-
 <h3 align="center">- Dużo jest assetów z neta darmowe :p **bo nie będę płacił bruh**</h3>
 
-<h3 align="center">- 1 taki projekt **testowy**</h3>
+<h3 align="center">- 1 taki projekt</h3>
 
-<h3 align="center">- Dzięki za darmowy szablon strony: **www.free-css.com**</h3>
+<h3 align="center">- Dzięki za darmowy szablon strony: www.free-css.com</h3>
 
 
 
 <h3 align="left">Connect with me:</h3>
-<h3 align="left">**lucekrk#8849**</h3>
+<h3 align="left">lucekrk#8849</h3>
 
 
 
