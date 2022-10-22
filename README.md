@@ -1,7 +1,13 @@
 <h1 align="center">GIGAGRA NAJLEPSZA</h1>
 <h3 align="center">Gigagra to gra przeglądarkowa zrobiona dla beki</h3>
 
+- Ta gra jest w 100% bezpieczna **bez grabberów**
+
 - kontakt discord **lucekrk#8849**
+
+- Dużo jest assetów z neta darmowe :p **bo nie będę płacił bruh**
+
+- 1 taki projekt **testowy**
 
 - Dzięki za darmowy szablon strony: **www.free-css.com**
 
