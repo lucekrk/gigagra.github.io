@@ -1,7 +1,7 @@
 <h1 align="center">GIGAGRA NAJLEPSZA</h1>
 <h3 align="center">Gigagra to gra przeglądarkowa zrobiona dla beki</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucekrk&label=Profile%20views&color=0e75b6&style=flat" alt="lucekrk" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lucekrk&label=Profile%20views&color=0e75b6&style=flat" alt="lucekrk" /> </p>
 
 
 
