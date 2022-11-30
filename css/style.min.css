@@ -1,14 +1,13 @@
-/*
- * Roxy: Bootstrap template by GettTemplates.com
- * https://gettemplates.co/roxy
- */
+
 html, body {
   width: 100%;
   overflow-x: hidden; }
 
 body {
   font-family: 'Lato', sans-serif;
-  font-weight: 300; }
+  font-weight: 300;
+ }
+
 
 h1,
 h2,
@@ -26,7 +25,7 @@ h6,
   margin-top: 0; }
 
 a {
-  color: #ff00cc;
+  color: #90E0EF;
   transition: all .3s ease-in-out; }
 
 a:focus,
@@ -118,9 +117,9 @@ section {
     right: 0;
     background: #ff00cc;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #333399, #ff00cc);
+    background: -webkit-linear-gradient(to right, #0077B6, #007bff);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #333399, #ff00cc);
+    background: linear-gradient(to right, #17a2b8, #007bff);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ }
   .jumbotron h1 {
     line-height: .9;
@@ -147,11 +146,11 @@ section {
     bottom: 0;
     left: 0;
     right: 0;
-    background: #ff00cc;
+    background: #00B4D8;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #333399, #ff00cc);
+    background: -webkit-linear-gradient(to right, #00B4D8, #0077B6);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #333399, #ff00cc);
+    background: linear-gradient(to right, #00B4D8, #0077B6);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ }
   .overlay.bg-white {
     color: #000; }
@@ -228,9 +227,9 @@ section {
 
   .btnn-outline-primary {
     color: #fff;
-    background-color: #ff00cc;
+    background-color: #17a2b8;
     background-image: none;
-    border-color: #ff00cc; }
+    border-color: #007bff; }
     .btnn-outline-primary:hover {
       background-color: #333399;
       border-color: #333399;
@@ -257,11 +256,11 @@ section {
 =            FORM RECTANGLE ETC            =
 ==========================================*/
 .rectangle-1 {
-  width: 2000px;
+  width: 3000px;
   height: 400px;
   background: #8E2DE2;
   background: -webkit-linear-gradient(to right, #4A00E0, #8E2DE2);
-  background: linear-gradient(to right, #4A00E0, #8E2DE2);
+  background: linear-gradient(to right, #0077B6, #0077B6);
   transform-origin: 50% 150% 0;
   position: absolute;
   left: 0;
@@ -272,8 +271,8 @@ section {
   width: 2000px;
   height: 400px;
   background: #8E2DE2;
-  background: -webkit-linear-gradient(to right, #4A00E0, #8E2DE2);
-  background: linear-gradient(to right, #4A00E0, #8E2DE2);
+  background: -webkit-linear-gradient(to right, #90E0EF, #90E0EF);
+  background: linear-gradient(to right, #0077B6, #0077B6);
   transform-origin: 65% 100% 0;
   position: absolute;
   right: 0;
@@ -311,6 +310,11 @@ section {
   to {
     opacity: 1;
     transform: translateY(0); } }
+
+
+
+
+
 
 .rectangle-1 {
   opacity: 0;
@@ -781,9 +785,9 @@ section {
     width: 100%;
     background: #ff00cc;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #333399, #ff00cc);
+    background: -webkit-linear-gradient(to right, #17a2b8, #007bff);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #333399, #ff00cc);
+    background: linear-gradient(to right, #17a2b8, #007bff);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     z-index: 11; }
   #header-navbar {
