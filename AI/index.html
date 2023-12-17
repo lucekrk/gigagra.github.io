@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>GigaAI</title>
+	<style>
+		body {
+			background-color: #f2f2f2;
+			font-family: Arial, sans-serif;
+		}
+		h1 {
+			color: #4CAF50;
+			text-align: center;
+		}
+		form {
+			border: 3px solid #f1f1f1;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			padding: 20px;
+			background-color: white;
+			margin: 0 auto;
+			width: 50%;
+			min-width: 300px;
+		}
+		input[type=text] {
+			width: 100%;
+			padding: 12px 20px;
+			margin: 8px 0;
+			box-sizing: border-box;
+			border: 2px solid #ccc;
+			border-radius: 4px;
+			background-color: #f8f8f8;
+			resize: none;
+		}
+		input[type=submit] {
+			background-color: #4CAF50;
+			color: white;
+			padding: 14px 20px;
+			margin: 8px 0;
+			border: none;
+			border-radius: 4px;
+			cursor: pointer;
+			width: 100%;
+		}
+		input[type=submit]:hover {
+			background-color: #45a049;
+		}
+		.error {
+			color: red;
+			font-size: 18px;
+			font-weight: bold;
+			margin-top: 20px;
+			text-align: center;
+		}
+	</style>
+</head>
+<body>
+	<h1>Strona AI</h1>
+	<form>
+		<label for="command">Wprowadź polecenie:</label>
+		<input type="text" id="command" name="command" placeholder="Wprowadź polecenie...">
+		<input type="submit" value="Wyślij">
+	</form>
+	<div id="error" class="error"></div>
+	<script>
+		document.querySelector('form').addEventListener('submit', (event) => {
+			event.preventDefault();
+			document.getElementById('error').innerHTML = 'ERROR - 503 - AI NIE DZIAŁA OD GRUDNIA';
+		});
+	</script>
+</body>
+</html>
