@@ -16,7 +16,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<h3 align="left">lucekrk#8849</h3>
+<h3 align="left">lucekrk</h3>
 
 
 
